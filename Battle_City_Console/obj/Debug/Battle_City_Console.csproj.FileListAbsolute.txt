@@ -1,0 +1,14 @@
+C:\Users\guilherme.barros\Documents\Battle_City_Console\Battle_City_Console\bin\Debug\Battle_City_Console.exe.config
+C:\Users\guilherme.barros\Documents\Battle_City_Console\Battle_City_Console\bin\Debug\Battle_City_Console.exe
+C:\Users\guilherme.barros\Documents\Battle_City_Console\Battle_City_Console\bin\Debug\Battle_City_Console.pdb
+C:\Users\guilherme.barros\Documents\Battle_City_Console\Battle_City_Console\obj\Debug\Battle_City_Console.csprojAssemblyReference.cache
+C:\Users\guilherme.barros\Documents\Battle_City_Console\Battle_City_Console\obj\Debug\Battle_City_Console.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.barros\Documents\Battle_City_Console\Battle_City_Console\obj\Debug\Battle_City_Console.exe
+C:\Users\guilherme.barros\Documents\Battle_City_Console\Battle_City_Console\obj\Debug\Battle_City_Console.pdb
+C:\Users\Public\Documents\Battle_City_Console\Battle_City_Console\bin\Debug\Battle_City_Console.exe.config
+C:\Users\Public\Documents\Battle_City_Console\Battle_City_Console\bin\Debug\Battle_City_Console.exe
+C:\Users\Public\Documents\Battle_City_Console\Battle_City_Console\bin\Debug\Battle_City_Console.pdb
+C:\Users\Public\Documents\Battle_City_Console\Battle_City_Console\obj\Debug\Battle_City_Console.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Battle_City_Console\Battle_City_Console\obj\Debug\Battle_City_Console.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Battle_City_Console\Battle_City_Console\obj\Debug\Battle_City_Console.exe
+C:\Users\Public\Documents\Battle_City_Console\Battle_City_Console\obj\Debug\Battle_City_Console.pdb
